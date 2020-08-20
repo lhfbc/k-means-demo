@@ -323,7 +323,7 @@ axis([-300,300,-300,300]);
 
 得到下面的图
 
-![image-20200731092421140](.\image1.png)
+![image-20200731092421140](./images/version1/image1.png)
 
 
 
@@ -368,21 +368,19 @@ axis([-300,300,-300,300]);
 
 1. 先将点在图上画出，并指定三个初始质点（红，蓝，绿）
 
-   ![1](.\image2.png)
+   ![1](./images/version1/image2.png)
 
 2. 第一次分组
 
-   ![2](.\image3.png)
+   ![2](./images/version1/image3.png)
 
 3. 在组内寻址新的质点
 
-   ![3](.\image4.png)
+   ![3](./images/version1/image4.png)
 
 4. 再次分组，再次寻找，直到不再变化
 
-   ![4](.\image5.png)
+   ![4](./images/version1/image5.png)
 
    
-
-5. 
 
